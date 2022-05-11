@@ -9,7 +9,7 @@ Made with Python3 and Pyrogram Library
 (C) @DarkzzAngel
 Copyright permission under GNU GENERAL PUBLIC LICENSE
 ```
-
+https://heroku.com/deploy?template=https://github.com/TEDZO123/Frwdit-V2.git
 ## Working:
 - Add The Bot to Your To channel as admin
 - Join User in From channel (No need Admin Permission)
